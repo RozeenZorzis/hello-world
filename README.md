@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Rozeen here, I like java and android
+I love brownies!
